@@ -21,6 +21,10 @@
     - Compose Expert
     - Jetpack Compose and Internals
     - Accessibility Expert
+    - Firebase for Android with Kotlin
+    - Kotlin Multiplatform & Compose Multiplatform
+    - Testing Expert
+    - AI Expert
  
 <br>
 
@@ -54,18 +58,20 @@
     
 - **IDEs**:
 
-  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)&nbsp;
   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+  ![Antigravity](https://img.shields.io/badge/Antigravity-black?style=for-the-badge&logoColor=white)&nbsp;
     
 <br>  
     
 - **Databases**:
 
   ![Room](https://img.shields.io/badge/room-43a543?style=for-the-badge&logo=android&logoColor=white)&nbsp;
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![Core Data](https://img.shields.io/badge/core%20data-757575?style=for-the-badge&logo=apple&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+  ![SQLDelight](https://img.shields.io/badge/SQLDelight-blue?style=for-the-badge&logoColor=white)&nbsp;
+  ![Core Data](https://img.shields.io/badge/core%20data-757575?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
     
 <br> 
     
@@ -73,7 +79,7 @@
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
     
 <br>
 
@@ -84,15 +90,15 @@
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
   ![KMP](https://img.shields.io/badge/KMP-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
+  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)&nbsp;
 
 <br>
 
 - **CI+CD**:
 
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
-  ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+  ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)&nbsp;
 
 <br>
 
@@ -115,14 +121,16 @@
   ![Mockito](https://img.shields.io/badge/mockito-b4ccb8?style=for-the-badge)&nbsp;
   ![Espresso](https://img.shields.io/badge/espresso-43a543?style=for-the-badge&logo=android&logoColor=ffffff)&nbsp;
   ![Barista](https://img.shields.io/badge/barista-f1f1f1?style=for-the-badge)&nbsp;
-  ![XCTest](https://img.shields.io/badge/xctest-757575?style=for-the-badge&logo=apple&logoColor=ffffff)
+  ![XCTest](https://img.shields.io/badge/xctest-757575?style=for-the-badge&logo=apple&logoColor=ffffff)&nbsp;
 
 <br>
 
 - **AI**:
 
-  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-  [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+  ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=fff)&nbsp;
+  ![Stitch AI](https://img.shields.io/badge/Stitch%20AI-pink?style=for-the-badge)&nbsp;
+  ![NotebookLM](https://img.shields.io/badge/NotebookLM-white?style=for-the-badge&logo=notebooklm&logoColor=black)&nbsp;
 
 <br>
 
