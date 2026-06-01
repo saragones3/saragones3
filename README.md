@@ -40,7 +40,7 @@
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sergioat7&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=saragones3&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 <br>
 
